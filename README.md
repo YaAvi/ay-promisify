@@ -1,7 +1,10 @@
 # promisify
 promisify node callbacks
 
-
+### Install:
+```
+npm install ay-promisify
+```
 ### Usage Example:
 ```javascript
 var promisify = require('ay-promisify');
