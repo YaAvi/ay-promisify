@@ -1,0 +1,22 @@
+{
+  "name": "promisify",
+  "version": "1.0.0",
+  "description": "promisify node callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaAvi/promisify.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Avi Yaakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YaAvi/promisify/issues"
+  },
+  "homepage": "https://github.com/YaAvi/promisify#readme"
+}
