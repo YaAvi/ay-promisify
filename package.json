@@ -1,6 +1,6 @@
 {
-  "name": "promisify",
-  "version": "1.0.0",
+  "name": "ay-promisify",
+  "version": "1.0.1",
   "description": "promisify node callbacks",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YaAvi/promisify.git"
+    "url": "git+https://github.com/YaAvi/ay-promisify.git"
   },
   "keywords": [
     "promise"
