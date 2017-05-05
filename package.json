@@ -1,6 +1,6 @@
 {
   "name": "ay-promisify",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "promisify node callbacks",
   "main": "index.js",
   "scripts": {
@@ -11,12 +11,15 @@
     "url": "git+https://github.com/YaAvi/ay-promisify.git"
   },
   "keywords": [
+    "promisify",
+    "callback",
+    "node",
     "promise"
   ],
   "author": "Avi Yaakov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/YaAvi/promisify/issues"
+    "url": "https://github.com/YaAvi/ay-promisify/issues"
   },
-  "homepage": "https://github.com/YaAvi/promisify#readme"
+  "homepage": "https://github.com/YaAvi/ay-promisify#readme"
 }
