@@ -1,6 +1,6 @@
 {
   "name": "ay-promisify",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "promisify node callbacks",
   "main": "index.js",
   "scripts": {
